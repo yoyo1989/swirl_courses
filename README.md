@@ -11,7 +11,7 @@ Here are our current offerings, organized by level of difficulty:
 
 #### Beginner
 
-- **R Programming**: The basics of programming in R
+- **R Programming**: The basics of programming in R (Yuqian completed on 2016.1)
 - **R Programming Alt**: Same as the original, but modified slightly for in-class use (see below ***)
 - **Data Analysis**: Basic ideas in statistics and data visualization
 - **Mathematical Biostatistics Boot Camp**: One- and two-sample t-tests, power, and sample size
